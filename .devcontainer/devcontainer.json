@@ -39,7 +39,6 @@
   },
 
   "settings": {
-    "workbench.startupEditor": "none",
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.colorCustomizations": {}
   }
